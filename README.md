@@ -7,7 +7,7 @@
 ## Installation
 
 1. Clone the repo 
-`git clone https://github.com/salah21500/Livewire-Users-Data-table.git`.
+`git clone https://github.com/salah-jr/Livewire-article-demo.git`.
 
 2. Copy .env-example as .env file .
 4. Create database and modify `.env` file with your db name and db account details.
